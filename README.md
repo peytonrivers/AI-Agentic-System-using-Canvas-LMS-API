@@ -2,6 +2,7 @@
 python3.11 -m venv venv(other python version can’t be installed for this to work)
 source venv/bin/activate
 pip install fastapi "uvicorn[standard]"
+
 pip install requests
 pip install langgraph
 pip install langchain
