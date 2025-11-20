@@ -1,5 +1,8 @@
 # AI-Agentic-System-using-Canvas-LMS-API
-python3.11 -m venv venv(other python version can’t be installed for this to work)
+
+**Python  Version Needs to be 3.11**
+
+python3.11 -m venv venv
 source venv/bin/activate
 
 pip install fastapi "uvicorn[standard]"
